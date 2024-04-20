@@ -5,13 +5,6 @@
 
 **Quickstart**
 
-```sh
-npm install blast-text
-```
-
-```sh
-bower install blast-text
-```
 
 **Frameworks**  
 Both jQuery and Zepto are fully supported.
